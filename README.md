@@ -10,4 +10,4 @@ Desenvolvedor Front End se aperfeiçoando e se aventurando com os desafios que e
 Desenvolvendo com frameworks de Vuejs e Reactjs no cotidiano para elaborações de páginas web e sistemas responsivos com integração direat à servidores.
 
 ### Tecnologias que Utilizo
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
